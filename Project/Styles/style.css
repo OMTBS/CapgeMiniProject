@@ -1,0 +1,122 @@
+
+			#logo
+			{
+				width:80px;
+				height:80px;
+				border-radius:100px;
+			}
+			#navlink
+			{
+				text-decoration:none;
+				color:red;
+				font-size:18px;
+			
+			}
+			.navbar
+			{
+					list-style:none;
+
+			}
+			#heading
+			{
+				text-align:center;
+				color:white;
+				font-size:30px;
+			}
+			.header
+			{
+				width:100%;
+				background-color:#283e4a;
+				
+			}
+			.footer {
+				 position: fixed;
+				left: 0;
+				bottom: 0;
+				width: 100%;
+			   color: white;
+			   height:50px;
+			   background:gray;
+			}			
+			.login-form{
+				
+				border:1px solid gray;
+				width:350px;
+				height:300px;
+				border-radius:10px;
+				box-shadow:3px 3px #888888;
+				background:white;
+			}
+					
+			#submit-btn
+			{
+				background:#3498db;
+				width:180px;
+			}
+			
+			#submit-btn:hover{
+				
+				background:blue;
+				cursor:loading:
+			}
+			
+			.about-boxes{
+				padding:10px;
+				background:#f5f6fa;
+				width:100%;
+				margin-bottom:24px;
+				text-align:center;
+			}
+			.about-boxes p{
+				color:black;
+			}
+			.about-boxes:hover{
+				
+				box-shadow:0px 0px 20px 3px #d1d8e0;
+				transform:scale(1.0);
+				
+			}
+			.main-content
+			{
+				background:#f5f6fa;
+			}
+			
+			
+			.join-link
+			{
+				border:1px solid black;
+			}
+			
+			
+			.row a
+			{
+				color:black;
+			}
+			.row a:hover
+			{
+				color:blue;
+				text-decoration:none;
+			}
+			
+			.pannel
+			{
+				box-shadow:2px 2px gray;
+			}
+			.pannel1
+			{
+				margin-top:10px;
+				box-shadow:2px 2px gray;
+				padding:10px;
+			}
+			
+		
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

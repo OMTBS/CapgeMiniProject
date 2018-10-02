@@ -1,0 +1,84 @@
+
+			#logo
+			{
+				width:80px;
+				height:80px;
+				border-radius:100px;
+			}
+			#navlink
+			{
+				text-decoration:none;
+				color:red;
+				font-size:18px;
+			
+			}
+			.navbar
+			{
+					list-style:none;
+
+			}
+			#heading
+			{
+				text-align:center;
+				color:white;
+				font-size:30px;
+			}
+			.header
+			{
+				width:100%;
+				background-color:#283e4a;
+				box-shadow:0px 2px #888888;
+			}
+			.footer {
+				 position: fixed;
+				left: 0;
+				bottom: 0;
+				width: 100%;
+			   color: white;
+			   height:50px;
+			   background:gray;
+			}			
+			
+			
+			.sidemenu
+			{
+				height: 100%;
+				width: 0;
+				position: fixed;
+				z-index: 1;
+				left:0;
+				background-color: #273c75;
+				overflow-x: hidden;
+				transition: 0.5s;
+				padding-top: 60px;
+			}
+			.sidemenu a 
+			{
+				padding: 4px 4px 4px 16px;
+				text-decoration: none;
+				font-size: 20px;
+				color: black;
+				display: block;
+				transition: 0.4s;
+			}
+			.sidemenu a:hover {
+				color: #f1f1f1;
+			}
+
+			.sidemenu .closebtn {
+				position: absolute;
+				top: 0;
+				right: 25px;
+				font-size: 36px;
+				margin-left: 50px;
+			}
+			@media screen and (max-height: 450px) {
+			  .sidenav {padding-top: 15px;}
+			  .sidenav a {font-size: 18px;}
+			}
+
+			.main-content
+			{
+				background:#f5f6fa;
+			}
+			

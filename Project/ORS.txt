@@ -1,0 +1,34 @@
+	=================================
+	Entities
+	Admin ->
+		Login
+			Add Emp
+			Remove emp 
+			Upadate Emp
+			Check Status
+			View Details
+		Logout
+		
+	Manager ->
+		
+		Raise Request
+		Check Request Status
+		Accept Emp Request
+		Deny Emp Request
+		
+		
+	Executive ->
+		Search Emp
+		Suggest Manager For Emp
+		Notify Emp for Project
+		
+	===================================
+	Pages
+		Home
+		Admin ->
+	
+	
+		
+		
+		
+		
